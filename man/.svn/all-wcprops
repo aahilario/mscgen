@@ -1,0 +1,17 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/140/trunk/man
+END
+mscgen.1in
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/134/trunk/man/mscgen.1in
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/134/trunk/man/Makefile.am
+END

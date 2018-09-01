@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/22/trunk/gdwin32/lib
+END
+webpng.lib
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/22/trunk/gdwin32/lib/webpng.lib
+END
+gdtest.lib
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/22/trunk/gdwin32/lib/gdtest.lib
+END
+bgd.lib
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/22/trunk/gdwin32/lib/bgd.lib
+END
+bgd_a.lib
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/22/trunk/gdwin32/lib/bgd_a.lib
+END

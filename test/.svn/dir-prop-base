@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 47
+*.eps
+*.ismap
+*.png
+*.svg
+Makefile.in
+Makefile
+
+END

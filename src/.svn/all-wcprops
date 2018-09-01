@@ -1,0 +1,137 @@
+K 25
+svn:wc:ra_dav:version-url
+V 27
+/svn/!svn/ver/204/trunk/src
+END
+msc.h
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/203/trunk/src/msc.h
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/203/trunk/src/Makefile.am
+END
+lexer.l
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/203/trunk/src/lexer.l
+END
+utf8.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/203/trunk/src/utf8.h
+END
+adraw.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/203/trunk/src/adraw.c
+END
+cmdparse.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/203/trunk/src/cmdparse.c
+END
+null_out.c
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/204/trunk/src/null_out.c
+END
+adraw.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/204/trunk/src/adraw.h
+END
+cmdparse.h
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/203/trunk/src/cmdparse.h
+END
+usage.c
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/200/trunk/src/usage.c
+END
+language.y
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/202/trunk/src/language.y
+END
+ps_out.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/204/trunk/src/ps_out.c
+END
+usage.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/77/trunk/src/usage.h
+END
+adraw_int.h
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/203/trunk/src/adraw_int.h
+END
+safe.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/152/trunk/src/safe.c
+END
+gd_out.c
+K 25
+svn:wc:ra_dav:version-url
+V 36
+/svn/!svn/ver/204/trunk/src/gd_out.c
+END
+msc.c
+K 25
+svn:wc:ra_dav:version-url
+V 33
+/svn/!svn/ver/203/trunk/src/msc.c
+END
+safe.h
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/152/trunk/src/safe.h
+END
+lexer.h
+K 25
+svn:wc:ra_dav:version-url
+V 35
+/svn/!svn/ver/203/trunk/src/lexer.h
+END
+main.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/204/trunk/src/main.c
+END
+svg_out.c
+K 25
+svn:wc:ra_dav:version-url
+V 37
+/svn/!svn/ver/204/trunk/src/svg_out.c
+END
+utf8.c
+K 25
+svn:wc:ra_dav:version-url
+V 34
+/svn/!svn/ver/203/trunk/src/utf8.c
+END

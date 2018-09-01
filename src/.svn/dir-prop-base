@@ -1,0 +1,22 @@
+K 10
+svn:ignore
+V 150
+*.eps
+*.exe
+*.ismap
+*.png
+*.svg
+language.tab.c
+language.tab.h
+lex.yy.c
+parsertest
+Makefile.in
+.deps
+Makefile
+*.o
+language.c
+language.h
+lexer.c
+mscgen
+
+END

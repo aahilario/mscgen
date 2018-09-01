@@ -1,0 +1,11 @@
+K 10
+svn:ignore
+V 91
+binstage
+buildstage
+mscgen-src-*.tar.gz
+mscgen-w32-*.zip
+mscgen-w32-*.zip.md5
+mscgen_*.exe
+
+END

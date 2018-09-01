@@ -1,0 +1,83 @@
+K 25
+svn:wc:ra_dav:version-url
+V 38
+/svn/!svn/ver/22/trunk/gdwin32/include
+END
+gd.h
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/22/trunk/gdwin32/include/gd.h
+END
+gdhelpers.h
+K 25
+svn:wc:ra_dav:version-url
+V 50
+/svn/!svn/ver/22/trunk/gdwin32/include/gdhelpers.h
+END
+gdfontl.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/22/trunk/gdwin32/include/gdfontl.h
+END
+gdcache.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/22/trunk/gdwin32/include/gdcache.h
+END
+gdfontmb.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/22/trunk/gdwin32/include/gdfontmb.h
+END
+gd_io.h
+K 25
+svn:wc:ra_dav:version-url
+V 46
+/svn/!svn/ver/22/trunk/gdwin32/include/gd_io.h
+END
+gdfonts.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/22/trunk/gdwin32/include/gdfonts.h
+END
+entities.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/22/trunk/gdwin32/include/entities.h
+END
+wbmp.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/22/trunk/gdwin32/include/wbmp.h
+END
+gdfontt.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/22/trunk/gdwin32/include/gdfontt.h
+END
+jisx0208.h
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/22/trunk/gdwin32/include/jisx0208.h
+END
+gdfontg.h
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/22/trunk/gdwin32/include/gdfontg.h
+END
+gdfx.h
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/22/trunk/gdwin32/include/gdfx.h
+END

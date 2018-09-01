@@ -1,0 +1,40 @@
+10
+
+dir
+205
+http://mscgen.googlecode.com/svn/trunk/packaging
+http://mscgen.googlecode.com/svn
+
+
+
+2011-03-05T15:48:04.362627Z
+194
+Michael.McTernan
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+2e55c7dc-2cda-11de-8ffe-b512714d229c
+
+win32
+dir
+
+cygport
+dir
+
+manual
+dir
+
+rpm
+dir
+

@@ -1,0 +1,155 @@
+K 25
+svn:wc:ra_dav:version-url
+V 28
+/svn/!svn/ver/204/trunk/test
+END
+testinput0.msc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/146/trunk/test/testinput0.msc
+END
+testinput1.msc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/58/trunk/test/testinput1.msc
+END
+testinput2.msc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/161/trunk/test/testinput2.msc
+END
+testinput3.msc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/204/trunk/test/testinput3.msc
+END
+testinput4.msc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/58/trunk/test/testinput4.msc
+END
+testinput5.msc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/112/trunk/test/testinput5.msc
+END
+testinput6.msc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/58/trunk/test/testinput6.msc
+END
+testinput7.msc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/137/trunk/test/testinput7.msc
+END
+testinput8.msc
+K 25
+svn:wc:ra_dav:version-url
+V 42
+/svn/!svn/ver/58/trunk/test/testinput8.msc
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 40
+/svn/!svn/ver/198/trunk/test/Makefile.am
+END
+testinput9.msc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/148/trunk/test/testinput9.msc
+END
+renderercheck.sh
+K 25
+svn:wc:ra_dav:version-url
+V 45
+/svn/!svn/ver/187/trunk/test/renderercheck.sh
+END
+testinput10.msc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/161/trunk/test/testinput10.msc
+END
+testinput20.msc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/197/trunk/test/testinput20.msc
+END
+testinput11.msc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/146/trunk/test/testinput11.msc
+END
+testinput21.msc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/197/trunk/test/testinput21.msc
+END
+testinput12.msc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/89/trunk/test/testinput12.msc
+END
+testinput13.msc
+K 25
+svn:wc:ra_dav:version-url
+V 43
+/svn/!svn/ver/89/trunk/test/testinput13.msc
+END
+testinput22.msc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/198/trunk/test/testinput22.msc
+END
+testinput14.msc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/102/trunk/test/testinput14.msc
+END
+testinput15.msc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/103/trunk/test/testinput15.msc
+END
+testinput16.msc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/162/trunk/test/testinput16.msc
+END
+testinput17.msc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/155/trunk/test/testinput17.msc
+END
+testinput18.msc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/156/trunk/test/testinput18.msc
+END
+testinput19.msc
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/161/trunk/test/testinput19.msc
+END

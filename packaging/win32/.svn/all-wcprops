@@ -1,0 +1,29 @@
+K 25
+svn:wc:ra_dav:version-url
+V 39
+/svn/!svn/ver/187/trunk/packaging/win32
+END
+win32.sh
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/182/trunk/packaging/win32/win32.sh
+END
+EnvVarUpdate.nsh
+K 25
+svn:wc:ra_dav:version-url
+V 56
+/svn/!svn/ver/182/trunk/packaging/win32/EnvVarUpdate.nsh
+END
+setenv.sh
+K 25
+svn:wc:ra_dav:version-url
+V 49
+/svn/!svn/ver/182/trunk/packaging/win32/setenv.sh
+END
+installer.nsi
+K 25
+svn:wc:ra_dav:version-url
+V 53
+/svn/!svn/ver/187/trunk/packaging/win32/installer.nsi
+END

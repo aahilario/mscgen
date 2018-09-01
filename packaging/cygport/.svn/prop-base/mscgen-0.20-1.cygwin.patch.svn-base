@@ -1,0 +1,9 @@
+K 14
+svn:executable
+V 1
+*
+K 13
+svn:mergeinfo
+V 69
+/tags/release_0.17/packaging/cygport/mscgen-0.20-1.cygwin.patch:97-98
+END

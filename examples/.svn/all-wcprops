@@ -1,0 +1,41 @@
+K 25
+svn:wc:ra_dav:version-url
+V 32
+/svn/!svn/ver/128/trunk/examples
+END
+msg_types.mscin
+K 25
+svn:wc:ra_dav:version-url
+V 48
+/svn/!svn/ver/116/trunk/examples/msg_types.mscin
+END
+boxes_example.mscin
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/116/trunk/examples/boxes_example.mscin
+END
+simple_prog_desc.mscin
+K 25
+svn:wc:ra_dav:version-url
+V 55
+/svn/!svn/ver/116/trunk/examples/simple_prog_desc.mscin
+END
+Makefile.am
+K 25
+svn:wc:ra_dav:version-url
+V 44
+/svn/!svn/ver/128/trunk/examples/Makefile.am
+END
+client_server.mscin
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/116/trunk/examples/client_server.mscin
+END
+colour_sample.mscin
+K 25
+svn:wc:ra_dav:version-url
+V 52
+/svn/!svn/ver/116/trunk/examples/colour_sample.mscin
+END

@@ -1,0 +1,9 @@
+K 10
+svn:ignore
+V 33
+*.msc
+*.png
+Makefile
+Makefile.in
+
+END

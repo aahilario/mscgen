@@ -1,0 +1,12 @@
+# $Id: mscgen-0.20-1.cygport 193 2011-03-05 15:37:22Z Michael.McTernan $
+
+DESCRIPTION="Message Sequence Chart Renderer"
+HOMEPAGE="http://www.mcternan.co.uk/"
+SRC_URI="http://www.mcternan.co.uk/mscgen/software/mscgen-src-${PV}.tar.gz"
+
+# We use the standard src_compile and src_test.
+
+src_install() {
+	cd ${B}
+	cyginstall
+}

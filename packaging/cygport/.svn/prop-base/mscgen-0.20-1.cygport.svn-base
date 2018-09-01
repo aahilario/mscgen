@@ -1,0 +1,13 @@
+K 14
+svn:executable
+V 1
+*
+K 12
+svn:keywords
+V 2
+Id
+K 13
+svn:mergeinfo
+V 64
+/tags/release_0.17/packaging/cygport/mscgen-0.20-1.cygport:97-98
+END
